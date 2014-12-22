@@ -1,0 +1,1 @@
+This is a snake I wrote in Java using lwjgl. I made this project in 2012 while I was still learning programming and Java. For that reason, the code is not very pretty. It is unfinished and there are a few bugs left, but it is functionnal enough.
